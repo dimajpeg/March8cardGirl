@@ -1,4 +1,4 @@
-<img width="641" alt="image" src="https://github.com/user-attachments/assets/fc158054-1a81-4298-8e14-bbe4cfa92c28" />The task was to write a card for a girl on March 8 in the form of a website on React with a beautiful and cute animation 
+card for a girl on March 8 in the form of a website on React with a beautiful and cute animation 
 
 <img width="656" alt="Снимок экрана 2025-03-25 в 13 54 32" src="https://github.com/user-attachments/assets/e6db7aa6-4b53-4ee3-b602-0d92229baaa0" />
 <img width="565" alt="Снимок экрана 2025-03-25 в 13 54 45" src="https://github.com/user-attachments/assets/3925b4f2-cbcc-4b36-830b-5bf42b9eade9" />
